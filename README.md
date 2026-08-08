@@ -86,7 +86,7 @@ I am a Full Stack Developer with over 3 years of experience building application
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 My GitHub Statistics & Activity
 
 <p align="center">
   <table align="center" border="0">
@@ -106,35 +106,21 @@ I am a Full Stack Developer with over 3 years of experience building application
 </p>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Diex's Profile Trophies" src="https://github-profile-trophy.vercel.app?username=Sirkennov&theme=dracula&no-bg=true&no-frame=true&column=7&row=1&margin-w=8&margin-h=8" height="140px"/>
+  </a>
+</p>
+
+<p align="center">
   <table align="center" border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img alt="Diex's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sirkennov&theme=dracula&date_format=j%20M%5B%20Y%5D" height="170px"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-          <img alt="Diex's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirkennov&theme=dracula&hide_border=true&area=true" height="170px"/>
-        </a>
-      </td>
-    </tr>
+    <td align="center">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img alt="Diex's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sirkennov&theme=dracula&date_format=j%20M%5B%20Y%5D" height="170px"/>
+      </a>
+    </td>
   </table>
 </p>
 
-<p align="center">
-  <img alt="Diex's Profile Trophies" src="https://github-profile-trophy.vercel.app?username=Sirkennov&theme=dracula&no-bg=true&no-frame=true&column=7&row=1&margin-w=8&margin-h=8" height="140px"/>
-</p>
-
----
-
-### 🎮 Arcade Contribution Games
-
-<p align="center"><em>My GitHub contributions, arcade-style — auto-updated daily via GitHub Actions</em></p>
-
-<p align="center">
-  <strong>🟡 Pac-Man</strong>
-</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sirkennov/Sirkennov/output/pacman-contribution-graph-dark.svg">
@@ -144,26 +130,11 @@ I am a Full Stack Developer with over 3 years of experience building application
 </p>
 
 <p align="center">
-  <strong>🧱 Breakout</strong>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sirkennov/Sirkennov/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sirkennov/Sirkennov/output/breakout-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Sirkennov/Sirkennov/output/breakout-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center">
   <sub>Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></sub>
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img alt="Visitor Count" src="https://visitcount.itsvg.in/api?id=Sirkennov&label=Profile%20Views&color=6C63FF&icon=0&style=flat" />
-</p>
+</p> -->
