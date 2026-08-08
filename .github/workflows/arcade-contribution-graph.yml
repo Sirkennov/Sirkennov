@@ -22,7 +22,26 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
 
-      - name: Push SVGs to the output branch
+      - name: Generate Terminal Stats Card
+        uses: yogeshwaran01/github-stats-terminal-style@master
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GHT }}
+          theme: dracula
+          headerStyle: mac
+          hostname: sirkennov
+          commands: whoami,neofetch,languages,uptime,exit
+          outputPath: assets/terminal_stats.svg
+
+      - name: Push assets to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push arcade SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
