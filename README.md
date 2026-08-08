@@ -9,6 +9,9 @@
   <a href="https://t.me/Sirkennov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram badge"/>
   </a>
+  <a href="https://gitlab.com/sirkennov" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab badge"/>
+  </a>
   <a href="https://github.com/Sirkennov?tab=repositories" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Projects&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="projects badge"/>
   </a>
@@ -98,11 +101,17 @@
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="36"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="36"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="36"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" height="36"/>
   <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" height="36"/>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="36"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" height="36"/>
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" height="36"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" height="36"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardware_%26_IoT-FFB86C?style=flat-square&labelColor=282A36" alt="HardwareIoT" /><br>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" alt="Arduino" height="36"/>
 </p>
 
 <br/>
