@@ -123,9 +123,14 @@
 <p align="center">
   <table align="center" border="0">
     <tr>
-      <td align="center">
+      <!-- <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img alt="Diex's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sirkennov&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
+        </a>
+      </td> -->
+      <td align="center">
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+          <img alt="Diex's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirkennov&theme=dracula&hide_border=true&area=true" height="170px"/>
         </a>
       </td>
       <td align="center">
@@ -145,16 +150,11 @@
 
 <p align="center">
   <table align="center" border="0">
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img alt="Diex's GitHub Streak" src="https://streak-stats.demolab.com/?user=Sirkennov&theme=dracula&date_format=j%20M%5B%20Y%5D" height="170px"/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img alt="Diex's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirkennov&theme=dracula&hide_border=true&area=true" height="170px"/>
-      </a>
-    </td>
+    </td> -->
   </table>
 </p>
 
