@@ -125,12 +125,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Diex's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sirkennov&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
+          <img alt="Diex's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sirkennov&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Diex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirkennov&layout=compact&theme=dracula" height="170px"/>
+          <img alt="Diex's Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sirkennov&layout=compact&theme=dracula" height="170px"/>
         </a>
       </td>
     </tr>
@@ -139,7 +139,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Diex's Profile Trophies" src="https://github-profile-trophy.vercel.app?username=Sirkennov&theme=dracula&no-bg=true&no-frame=true&column=7&row=1&margin-w=8&margin-h=8" height="140px"/>
+    <img alt="Diex's Profile Trophies" src="https://github-profile-trophy-orcin-eta.vercel.app?username=Sirkennov&theme=dracula&no-bg=true&no-frame=true&column=7&row=1&margin-w=8&margin-h=8" height="140px"/>
   </a>
 </p>
 
@@ -147,7 +147,7 @@
   <table align="center" border="0">
     <td align="center">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="Diex's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sirkennov&theme=dracula&date_format=j%20M%5B%20Y%5D" height="170px"/>
+        <img alt="Diex's GitHub Streak" src="https://streak-stats.demolab.com/?user=Sirkennov&theme=dracula&date_format=j%20M%5B%20Y%5D" height="170px"/>
       </a>
     </td>
     <td align="center">
