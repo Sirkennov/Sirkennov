@@ -123,11 +123,6 @@
 <p align="center">
   <table align="center" border="0">
     <tr>
-      <!-- <td align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Diex's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sirkennov&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
-        </a>
-      </td> -->
       <td align="center">
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
           <img alt="Diex's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirkennov&theme=dracula&hide_border=true&area=true" height="170px"/>
@@ -146,16 +141,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="Diex's Profile Trophies" src="https://github-profile-trophy-orcin-eta.vercel.app?username=Sirkennov&theme=dracula&no-bg=true&no-frame=true&column=7&row=1&margin-w=8&margin-h=8" height="140px"/>
   </a>
-</p>
-
-<p align="center">
-  <table align="center" border="0">
-    <!-- <td align="center">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="Diex's GitHub Streak" src="https://streak-stats.demolab.com/?user=Sirkennov&theme=dracula&date_format=j%20M%5B%20Y%5D" height="170px"/>
-      </a>
-    </td> -->
-  </table>
 </p>
 
 <br/>
